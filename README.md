@@ -48,3 +48,11 @@ namespace MyFirstProject
 }
 
 ```
+
+## Shortcut to create main method
+
+```vscode
+	sim
+```
+
+and press the tab button
