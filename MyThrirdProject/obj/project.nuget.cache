@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Df5vk5DxrMXPNWPQpDuJJRfzF7z52qjG4vzCGvCT1jg6gDgmO6F1sJZVG49fLZatVsh11O64/G8GqkB0EJ/LMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\MyThrirdProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACABEZAS\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

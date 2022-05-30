@@ -1,0 +1,15 @@
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\bin\Debug\net6.0\MyFirstProject.exe
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\bin\Debug\net6.0\MyFirstProject.deps.json
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\bin\Debug\net6.0\MyFirstProject.runtimeconfig.json
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\bin\Debug\net6.0\MyFirstProject.dll
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\bin\Debug\net6.0\MyFirstProject.pdb
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.dll
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\refint\MyFirstProject.dll
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.pdb
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\MyFirstProject.genruntimeconfig.cache
+C:\Users\ACABEZAS\Documents\Tutoring\C#\MyFirstProject\obj\Debug\net6.0\ref\MyFirstProject.dll
