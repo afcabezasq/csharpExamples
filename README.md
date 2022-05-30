@@ -4,6 +4,7 @@
 
 ```powershell
 	dotnet new console --output myProject 
+	dotnet new console --framework net5.0 --output myproject
 ```
 
 ## Run a project
