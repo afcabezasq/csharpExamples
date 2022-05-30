@@ -1,13 +1,38 @@
+# CSharp
+
 ## Create Project
 
-dotnet new console --output myProject 
+```powershell
+	dotnet new console --output myProject 
+```
+
+## Run a project
+
+```powershell
 dotnet run --project myProject
+```
+
+## Build a project
+
+```powershell
 dotnet build
+```
+## Run a project
+
+```powershell
 dotnet run
+```
+
+## Generate windows executable
+
+```powershell
 dotnet build -c Realease -r win10-x64 
+```
 
-##structure of a cs file
 
+## Structure of a cs file
+
+```c#
 namespace MyFirstProject
 {
 	class Program
@@ -20,3 +45,5 @@ namespace MyFirstProject
 
 
 }
+
+```
