@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\MyThrirdProject.csproj": {}
+    "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\Repo\\csharpExamples\\MyThrirdProject\\MyThrirdProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\MyThrirdProject.csproj": {
+    "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\Repo\\csharpExamples\\MyThrirdProject\\MyThrirdProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\MyThrirdProject.csproj",
+        "projectUniqueName": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\Repo\\csharpExamples\\MyThrirdProject\\MyThrirdProject.csproj",
         "projectName": "MyThrirdProject",
-        "projectPath": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\MyThrirdProject.csproj",
+        "projectPath": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\Repo\\csharpExamples\\MyThrirdProject\\MyThrirdProject.csproj",
         "packagesPath": "C:\\Users\\ACABEZAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\MyThrirdProject\\obj\\",
+        "outputPath": "C:\\Users\\ACABEZAS\\Documents\\Tutoring\\C#\\Repo\\csharpExamples\\MyThrirdProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,0 +1,3 @@
+```powershell
+dotnet new sln 
+```
